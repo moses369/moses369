@@ -1,10 +1,6 @@
 <h1 align='center'>
 Hi! My name is Moses 👋
 </h1>
-<p align='center'>
-  I am a Software Engineer who is passionate about learning and improving my skills!
-</p>
-
 <!-- Contacts -->
 <p align='center'>
  <a href="https://www.linkedin.com/in/moses-valerio/" target="_blank">
@@ -42,6 +38,24 @@ Hi! My name is Moses 👋
 
 
 <!-- Tech Stack -->
+<h2 align= 'center'> Tech Stack </h2> 
+<p align='center'>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff&style=for-the-badge" height=40>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" height=40>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height=40>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height=40>
+  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height=40>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height=40>
+  <img src="https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white&style=for-the-badge" height=40>
+</p>
+<p align='center'>
+  <img src="https://img.shields.io/badge/-Socket.io-E5E4E7?logo=socket.io&logoColor=010101&style=for-the-badge" height=40>
+  <img src="https://img.shields.io/badge/-NodeJs-339933?logo=node.js&logoColor=white&style=for-the-badge" height=40>
+  <img src="https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=for-the-badge" height=40>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height=40>
+
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" height=40>
+</p>
 <p align ='center'>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses369&layout=compact&bg_color=00000000&hide_border=true" alt="Moses's Top Languages" />
 </p>
