@@ -10,8 +10,8 @@ Hi! My name is Moses 👋
 
 
 <p align="center"> 
-   <img align='left' src="https://github-readme-stats.vercel.app/api?username=moses369&count_private=true&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true" alt="Moses's Github stats" />
-  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses369&layout=compact&bg_color=00000000&hide_border=true" alt="Moses's Top Languages" />
+   <img  src="https://github-readme-stats.vercel.app/api?username=moses369&count_private=true&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true" alt="Moses's Github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses369&layout=compact&bg_color=00000000&hide_border=true" alt="Moses's Top Languages" />
   <img  src="https://github-readme-activity-graph.cyclic.app/graph?username=moses369&bg_color=00000000&theme=tokyo-night" alt="Moses's Commit Graph" />
 </p>
 <!--
