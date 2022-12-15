@@ -35,7 +35,9 @@ Hi! My name is Moses 👋
 | :----: |:----:|
 |   [![Synth Pong](./images/synth-pong.jpg)](https://github.com/moses369/Synth-Pong)  | [![Hacking Transitions](./images/hacking-transitions.jpg)](https://github.com/moses369/hacking-transitions)
 
-
+|[Shopping List](https://github.com/moses369/shopping-list)|
+|:----:|
+| [![Shopping List](./images/shopping-list.jpg)](https://github.com/moses369/shopping-list) |
 
 <!-- Tech Stack -->
 <h2 align= 'center'> Tech Stack </h2> 
