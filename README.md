@@ -14,7 +14,7 @@ Hi! My name is Moses 👋
 <!-- Github Stats  -->
 <p align="center"> 
   <!-- https://github.com/anuraghazra/github-readme-stats github stats   -->
-   <img  src="https://github-readme-stats.vercel.app/api?username=moses369&count_private=true&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&title_color=00b8e6&text_color=00b8e6&icon_color=3333ff" alt="Moses's Github stats" />
+   <img  src="https://github-readme-stats.vercel.app/api?username=moses369&count_private=true&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&title_color=008ae6&text_color=008ae6&icon_color=3333ff" alt="Moses's Github stats" />
   
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats  streak url  -->  
   <p align='center'>   
@@ -57,7 +57,7 @@ Hi! My name is Moses 👋
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" height=40>
 </p>
 <p align ='center'>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses369&layout=compact&bg_color=00000000&hide_border=true&title_color=00b8e6&text_color=00b8e6&icon_color=3333ff" alt="Moses's Top Languages" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moses369&layout=compact&bg_color=00000000&hide_border=true&title_color=008ae6&text_color=008ae6&icon_color=008ae6" alt="Moses's Top Languages" />
 </p>
 
 <!--
