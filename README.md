@@ -35,9 +35,9 @@ Hi! My name is Moses 👋
 </h2>
 
 
-|[Synth Pong](https://github.com/moses369/Synth-Pong)  |
-| :----: |
-|   <a href="https://github.com/moses369/Synth-Pong"> <img src="./images/synth-pong.jpg" alt="Synth Pong" width=600 > </a> |
+|[Synth Pong](https://github.com/moses369/Synth-Pong)  | [Hacking Transitions](https://github.com/moses369/hacking-transitions) |
+| :----: |:----:|
+|   [![Synth Pong](./images/synth-pong.jpg)](https://github.com/moses369/Synth-Pong)  | [![Hacking Transitions](./images/hacking-transitions.jpg)](https://github.com/moses369/hacking-transitions)
 
 
 
