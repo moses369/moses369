@@ -34,16 +34,12 @@ Hi! My name is Moses 👋
  Featured
 </h2>
 
-<table align='center' >
-  <tr>
-   <td width="33%">
-     <a href="https://github.com/moses369/Synth-Pong">
-       <img src="./images/synth-pong.jpg" alt="Synth Pong" > 
-       <strong> Synth Pong </strong>
-     </a>
-   </td>
-  </tr>
-</table>
+
+|[Synth Pong](https://github.com/moses369/Synth-Pong)  | [Hacking Transitions](https://github.com/moses369/hacking-transitions) |
+| :----: |:----:|
+|   [![Synth Pong](./images/synth-pong.jpg)](https://github.com/moses369/Synth-Pong)  | [![Hacking Transitions](./images/hacking-transitions.jpg)](https://github.com/moses369/hacking-transitions)
+
+
 
 <!-- Tech Stack -->
 <p align ='center'>
