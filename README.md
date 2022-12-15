@@ -38,8 +38,8 @@ Hi! My name is Moses 👋
   <tr>
    <td width="33%">
      <a href="https://github.com/moses369/Synth-Pong">
-       <img src="./images/synth-pong" alt="Synth Pong" > 
-       <h3> Synth Pong </h3>
+       <img src="./images/synth-pong.jpg" alt="Synth Pong" > 
+       <strong> Synth Pong </strong>
      </a>
    </td>
   </tr>
