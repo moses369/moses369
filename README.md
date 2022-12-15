@@ -31,13 +31,13 @@ Hi! My name is Moses 👋
 </h2>
 
 
-|[Synth Pong](https://github.com/moses369/Synth-Pong)  | [Hacking Transitions](https://github.com/moses369/hacking-transitions) |
+|[Shopping List](https://github.com/moses369/shopping-list) | [Hacking Transitions](https://github.com/moses369/hacking-transitions) |
 | :----: |:----:|
-|   [![Synth Pong](./images/synth-pong.jpg)](https://github.com/moses369/Synth-Pong)  | [![Hacking Transitions](./images/hacking-transitions.jpg)](https://github.com/moses369/hacking-transitions)
+|    [![Shopping List](./images/shopping-list.jpg)](https://github.com/moses369/shopping-list)  | [![Hacking Transitions](./images/hacking-transitions.jpg)](https://github.com/moses369/hacking-transitions)
 
-|[Shopping List](https://github.com/moses369/shopping-list)|
+| [Synth Pong](https://github.com/moses369/Synth-Pong) |
 |:----:|
-| [![Shopping List](./images/shopping-list.jpg)](https://github.com/moses369/shopping-list) |
+|[![Synth Pong](./images/synth-pong.jpg)](https://github.com/moses369/Synth-Pong)  |
 
 <!-- Tech Stack -->
 <h2 align= 'center'> Tech Stack </h2> 
