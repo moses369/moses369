@@ -22,7 +22,7 @@ Hi! My name is Moses 👋
   </p>
   
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph commit graph   -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=moses369&bg_color=00000000&title_color=008ae6&color=008ae6&line=008ae6&point=00e6e6&area_color=00e6e6&area=true" alt="Moses's Commit Graph" />
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=moses369&bg_color=00000000&title_color=008ae6&color=008ae6&line=008ae6&point=00e6e6&area_color=00e6e6&area=true" alt="Moses's Commit Graph" /> -->
 </p>
 
 <!-- Featured Projects -->
