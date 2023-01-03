@@ -17,9 +17,9 @@ Hi! My name is Moses 👋
    <img  src="https://github-readme-stats.vercel.app/api?username=moses369&count_private=true&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&title_color=008ae6&text_color=008ae6&icon_color=3333ff" alt="Moses's Github stats" />
   
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats  streak url  -->  
-  <p align='center'>   
+  <!-- <p align='center'>   
     <img src="https://streak-stats.demolab.com/?user=moses369&layout=compact&background=00000000&hide_border=true&theme=windows-dark" alt="Moses's Top Languages" />
-  </p>
+  </p> -->
   
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph commit graph   -->
 <!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=moses369&bg_color=00000000&title_color=008ae6&color=008ae6&line=008ae6&point=00e6e6&area_color=00e6e6&area=true" alt="Moses's Commit Graph" /> -->
